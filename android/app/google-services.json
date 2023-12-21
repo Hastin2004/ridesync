@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676064512947",
+    "project_id": "ride-sync-e955d",
+    "storage_bucket": "ride-sync-e955d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676064512947:android:fe305e66b9a554ab2599c6",
+        "android_client_info": {
+          "package_name": "com.example.ridesync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLAMLxCIqGHNOOiiuzQCRZ0RkV8WJvEpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
